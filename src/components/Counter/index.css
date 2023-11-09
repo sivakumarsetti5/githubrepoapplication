@@ -1,0 +1,27 @@
+.repo-container {
+  font-family: 'roboto';
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'roboto';
+}
+.main-heading {
+  font-family: 'roboto';
+  font-size: 30px;
+}
+.input-container {
+  align-self: flex-end;
+  margin-right: 50px;
+}
+.input-ele {
+  border: 1px solid rgb(156, 149, 149);
+  border-radius: 3px;
+  height: 20px;
+  width: 100px;
+}
